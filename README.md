@@ -1,6 +1,9 @@
 # Mini_Project
-Analyzing Network Traffic Using Python
-•	This Python-based Network Packet Analyzer reads network logs and analyzes packet data using regex and OOP.
-•	It identifies top source and destination IPs, protocol distribution, and detects potential DDoS attacks using heuristics.
-•	The system uses inheritance and polymorphism for TCP/UDP packet handling and manages errors via exception handling.
-•	Dictionaries and loops are used to efficiently track IP counts and analyze traffic patterns.
+Network Traffic Analyzer (Python)
+This Python-based Network Traffic Analyzer processes and analyzes raw network log data using object-oriented programming and regular expressions.
+
+* Traffic Analysis: Identifies top source and destination IPs, tracks protocol usage distribution, and detects potential DDoS attacks using heuristic methods.
+* OOP Design: Utilizes inheritance and polymorphism to efficiently handle TCP and UDP packet types.
+* Error Handling: Implements robust exception handling for stable and reliable performance.
+* Efficient Data Processing: Uses dictionaries and control structures (loops) to maintain IP frequency counts and analyze traffic patterns with speed and clarity.
+
